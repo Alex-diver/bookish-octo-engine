@@ -1,0 +1,12 @@
+.diving-blok {
+  display: flex;
+  gap: 24px;
+}
+.diving-subtitle {
+  margin-bottom: 24px;
+  text-align: center;
+}
+.diving-text {
+  margin-bottom: 24px;
+  text-align: center;
+}
